@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm a rising senior at the University of Rochester completing my dual degree, B.S. in Computational Biology and B.A. in Data Science on the pre-med track in May 2026. 
+Hi there! I'm a rising senior at the University of Rochester completing my B.S. in Computational Biology and B.A. in Data Science on the pre-med track in May 2026. 
 
 My research interests are in the intersection of artificial intelligence, biomedical research, and health equity. I hope to develop & integrate AI/ML tools to study complex diseases & improve healthcare outcomes through personalized treatment & diagnostics as a future physician-scientist.
 
