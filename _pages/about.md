@@ -26,4 +26,4 @@ latest_posts:
 
 Hi there! I'm a rising senior at the University of Rochester completing my dual degree, B.S. in Computational Biology and B.A. in Data Science in May 2026. My research interests are in the intersection of artificial intelligence, biomedical research, and health equity. I hope to develop & utilize AI/ML tools to study complex diseases & improve healthcare outcomes through personalized treatment & diagnostics as a future physician-scientist.
 
-Outside of research, I'm deeply involved in mentorship, service and advocacy. At UofR, I currently serve as Co-President of oSTEM, Vice President of Eye to Eye, and Secretary of Alpha Phi Omega, our national service fraternity. I'm especially committed to supporting LGBTQ+ and neurodiverse students in STEM and creating inclusive, supportive spaces in academic and clinical settings.
+Outside of research, I'm deeply involved in mentorship, service and advocacy. I'm especially committed to supporting LGBTQ+ and neurodiverse students in STEM and creating inclusive, supportive spaces in academic and clinical settings.
