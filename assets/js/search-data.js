@@ -399,7 +399,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-2025-rit-asa-datafest",
           title: '2025 RIT ASA Datafest',
-          description: "🏆 1st Place - Best Visualization",
+          description: "1st Place - Best Visualization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-impact-of-covid-19-on-graduate-salaries",
