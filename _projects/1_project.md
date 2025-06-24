@@ -2,7 +2,7 @@
 layout: page
 title: 2024 UofR Biomedical Data Science Hackathon
 description: 🏆 1st Place - Undergraduate Division
-img: assets/img/12.jpg
+img: assets/img/singlecell.png
 importance: 1
 category: work
 related_publications: true
