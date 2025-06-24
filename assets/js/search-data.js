@@ -387,9 +387,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-predicting-gene-expression-from-chromatin-accessibility-in-single-cell-data",
-          title: 'Predicting Gene Expression from Chromatin Accessibility in Single-Cell Data',
-          description: "2024 UofR Biomedical Data Science Hackathon - 1st Place",
+          section: "News",},{id: "projects-2024-uofr-biomedical-data-science-hackathon",
+          title: '2024 UofR Biomedical Data Science Hackathon',
+          description: "1st Place - Undergraduate Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-2025-raise-informatics-data-science-amp-ai-competition",
