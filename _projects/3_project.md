@@ -13,5 +13,5 @@ We performed exploratory data analysis & feature engineering, alongside linear r
 
 We presented our findings to industry judges & received a Gold Medal Award in the Best Visualization Category.
 
-[Presentation](https://github.com/chattergpt.github.io/assets/pdf/DatafestPresentation.pdf)    |
+[Presentation](https://github.com/chattergpt.github.io/assets/pdf/DatafestPresentation.pdf)  |
 [Paper](https://github.com/chattergpt.github.io/assets/pdf/DatafestPaper.pdf)
