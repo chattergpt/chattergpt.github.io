@@ -394,7 +394,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-2025-raise-informatics-data-science-amp-ai-competition",
           title: '2025 RAISE Informatics, Data Science &amp;amp; AI Competition',
-          description: "🏆 2nd Place - Undergraduate Division",
+          description: "2nd Place - Undergraduate Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-2025-rit-asa-datafest",
