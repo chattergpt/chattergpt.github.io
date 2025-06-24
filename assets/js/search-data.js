@@ -402,8 +402,8 @@ ninja.data = [{
           description: "🏆 1st Place - Best Visualization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-impact-of-covid-19-on-graduate-salaries",
+          title: 'Impact of COVID-19 on Graduate Salaries',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
