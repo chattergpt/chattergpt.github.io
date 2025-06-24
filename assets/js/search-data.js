@@ -404,7 +404,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-impact-of-covid-19-on-graduate-salaries",
           title: 'Impact of COVID-19 on Graduate Salaries',
-          description: "another without an image",
+          description: "CSC 240 Final Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
