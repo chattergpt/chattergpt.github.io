@@ -7,7 +7,7 @@ importance: 1
 category: data science
 ---
 
-As part of the 2024 Biomedical Data Science Hackathon, I worked on identifying patterns in chromatin accessibility and gene expression data from immune cells. 
+As part of the 2024 Biomedical Data Science Hackathon, I worked on identifying associations between chromatin accessibility and gene expression data from immune cells.
 
 ### Project Highlights
 - **Data Preprocessing:** Analyzed data from **2,999 CD14+ monocyte cells**, comprising **36,601 genes** and **108,344 chromatin accessibility peaks**.
