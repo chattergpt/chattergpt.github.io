@@ -7,7 +7,7 @@ importance: 4
 category: data science
 ---
 
-As our final project for CSC 240: Data Mining, we analyzed data from the U.S. Department of Education to explore how COVID-19 impacted graduate salaries. 
+As part of our final project for CSC 240: Data Mining, we analyzed data from the U.S. Department of Education to explore how COVID-19 impacted graduate salaries. 
 
 We used K-Means Clustering to identify groups of graduates who experienced different salary shifts during the pandemic, Synthetic Control Modeling via XGBoost to estimate what salaries might have looked like had the pandemic not occurred, and Regression Analysis (OLS) to quantify how factors like location, institution type, and field of study influenced starting salaries pre- and post-pandemic.
 
