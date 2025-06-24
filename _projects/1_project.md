@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2024 UofR Biomedical Data Science Hackathon
-description: 🏆 1st Place - Undergraduate Division
+title: Predicting Gene Expression from Chromatin Accessibility in Single-Cell Data
+description: 2024 UofR Biomedical Data Science Hackathon - 1st Place
 img: assets/img/singlecell.png
 importance: 3
 category: data science
