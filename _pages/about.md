@@ -26,7 +26,7 @@ latest_posts:
 
 Hi there! I'm Sree (he/they), a rising senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] on the pre-med track in May 2026. 
 
-My research interests are in the intersection of artificial intelligence, biomedical research, and health equity. Currently, I work in the Dye Lab as a researcher developing LLM-driven frameworks to quantify social disadvantage across countries using global health survey data. I eventually hope to develop & integrate AI/ML tools to study complex diseases & improve healthcare outcomes through personalized treatment & diagnostics as a future physician-scientist.
+My research interests are in the intersection of artificial intelligence, biomedical research, and health equity. Currently, I work in the [Dye Lab][dye lab] as a researcher developing LLM-driven frameworks to quantify social disadvantage across countries using global health survey data. I eventually hope to develop & integrate AI/ML tools to study complex diseases & improve healthcare outcomes through personalized treatment & diagnostics as a future physician-scientist.
 
 Outside of research, I'm deeply involved in mentorship, service and advocacy. I'm especially committed to supporting LGBTQ+ and neurodiverse students in STEM and creating inclusive, supportive spaces in academic and clinical settings. 
 
@@ -35,3 +35,4 @@ When I'm not at the lab, computer or clinic, I enjoy watching & reviewing movies
 [ur]: https://www.rochester.edu/
 [comp bio]: https://www.sas.rochester.edu/bio/undergraduate/bcb.html
 [data sci]: https://www.hajim.rochester.edu/dsc/
+[dye lab]: https://www.urmc.rochester.edu/labs/dye
