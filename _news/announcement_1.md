@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-We won first place of the [University of Rochester Biomedical Data Science Hackathon][hackathon]!
+We won first place at the [University of Rochester Biomedical Data Science Hackathon][hackathon]!
 
 [hackathon]: https://github.com/Rochester-Biomedical-DS/Hackathon-Summer-2025/blob/main/README.md
