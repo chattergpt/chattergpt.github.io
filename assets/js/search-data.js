@@ -376,8 +376,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-won-first-place-at-the-university-of-rochester-biomedical-data-science-hackathon",
-          title: 'We won first place at the University of Rochester Biomedical Data Science Hackathon!...',
+            },},{id: "news-we-won-first-place-of-the-university-of-rochester-biomedical-data-science-hackathon",
+          title: 'We won first place of the University of Rochester Biomedical Data Science Hackathon!...',
           description: "",
           section: "News",},{id: "projects-2024-uofr-biomedical-data-science-hackathon",
           title: '2024 UofR Biomedical Data Science Hackathon',
