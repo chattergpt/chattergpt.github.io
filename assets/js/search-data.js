@@ -376,13 +376,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-we-won-first-place-at-the-university-of-rochester-biomedical-data-science-hackathon",
+          title: 'We won first place at the University of Rochester Biomedical Data Science Hackathon!...',
           description: "",
           section: "News",},{id: "projects-2024-uofr-biomedical-data-science-hackathon",
           title: '2024 UofR Biomedical Data Science Hackathon',
