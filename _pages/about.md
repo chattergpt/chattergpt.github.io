@@ -24,13 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm Sree (he/they), a rising senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] on the pre-med track in May 2026. 
+Hi there! I'm Sree (he/they), a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] on the pre-med track graduating in May 2026. 
 
-My research interests are in the intersection of artificial intelligence, biomedical research, and health equity. Currently, I work in the [Dye Lab][dye lab] at URMC as a researcher developing AI-driven frameworks that integrate large language models, sociological theory, and public health data to measure systemic oppression across countries and examine its relationship to health and wellbeing. I'm also working in the [Liu Lab][liu lab], studying how disease-associated genetic variants intersect with transposable elements and regulatory regions to uncover noncoding mechanisms driving complex diseases and aging. I eventually hope to develop & integrate AI/ML tools to study complex diseases & improve healthcare outcomes through personalized treatment & diagnostics as a future physician-scientist.
+My research interests are in the intersection of AI, genomics and health equity. Currently, I work in the [Dye Lab][dye lab] at URMC building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], analyzing disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. I aim to become a physician-scientist using AI/ML to advance personalized, equitable healthcare.
 
-Outside of research, I'm deeply involved in mentorship, service and advocacy. I'm especially committed to supporting LGBTQ+ and neurodiverse students in STEM and creating inclusive, supportive spaces in academic and clinical settings. 
-
-When I'm not at the lab, computer or clinic, I enjoy watching & reviewing movies, exploring new places & restaurants, and taking photos of sunsets. 
+Beyond research, I’m passionate about mentorship and creating inclusive spaces, especially for LGBTQ+ and neurodivergent students in STEM. When I'm not at the lab, computer or clinic, I enjoy watching & reviewing movies, exploring new places & restaurants, and taking photos of sunsets. 
 
 [ur]: https://www.rochester.edu/
 [comp bio]: https://www.sas.rochester.edu/bio/undergraduate/bcb.html
