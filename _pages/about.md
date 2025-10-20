@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm Sree (he/they), a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] in May 2026. 
+Hi there! I'm Sree (they/them), a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] in May 2026. 
 
-My research interests are in the intersection of AI, genomics and health equity. Currently, I work in the [Dye Lab][dye lab] at URMC building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], analyzing disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. I aim to become a physician-scientist using AI/ML to advance personalized, equitable healthcare.
+My academic interests are in the intersection of AI, genomics and health equity. Currently, I work in the [Dye Lab][dye lab] at URMC building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], analyzing disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. I aim to become a physician-scientist using AI/ML to advance personalized, equitable healthcare.
 
 Beyond research, I’m passionate about mentorship and creating inclusive spaces, especially for LGBTQ+ and neurodivergent students in STEM. When I'm not at the lab, computer or clinic, I enjoy watching & reviewing movies, exploring new places & restaurants, and taking photos of sunsets. 
 
