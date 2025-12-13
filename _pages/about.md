@@ -26,7 +26,7 @@ latest_posts:
 
 Hi there! I'm Sree (they/them), a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] in May 2026. 
 
-I'm broadly interested in how machine learning, population genetics, and health data intersect to uncover patterns that shape human health, disease, and inequality. Currently, I work a researcher in the [Dye Lab][dye lab] at [University of Rochester School of Medicine & Dentistry][urmc] building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], analyzing disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. 
+I'm broadly interested in how machine learning, population genetics, and health data intersect to uncover patterns that shape human health, disease, and inequality. Currently, I work a researcher in the [Dye Lab][dye lab] at [University of Rochester School of Medicine & Dentistry][urmc] building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], using bioinformatics & genomic tools to analyze disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. 
 
 As I continue my work, I'm drawn to questions like: 
 - How can genomic science inform public policy without reinforcing bias?
