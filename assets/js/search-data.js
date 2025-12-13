@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-bridging-the-gap-between-ai-ml-healthcare-and-social-justice",
+        
+          title: "Bridging the Gap Between AI/ML, Healthcare and Social Justice",
+        
+        description: "how we can build more equitable ai systems",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ai-ml-justice/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -336,17 +347,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
