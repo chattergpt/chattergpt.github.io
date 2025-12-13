@@ -29,7 +29,7 @@ Hi there! I'm Sree (they/them), a senior at the [University of Rochester][ur] co
 I'm broadly interested in how machine learning, population genetics, and health data intersect to uncover patterns that shape human health, disease, and inequality. Currently, I work a researcher in the [Dye Lab][dye lab] at URMC building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], analyzing disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. 
 
 As I continue my work, I'm drawn to questions like: 
-- How can genomic science inform public policy without reinforcing bias or harm?
+- How can genomic science inform public policy without reinforcing bias?
 - How do social structures shape the genetic variation we observe, and how do we responsibly interpret that?
 - What role can AI/ML play in making population health research more scalable, accurate, and just?
 
