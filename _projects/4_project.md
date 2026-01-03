@@ -3,7 +3,7 @@ layout: page
 title: Impact of COVID-19 on Graduate Salaries
 description: CSC 240 Final Project
 img: assets/img/COVIDEconGrowth.png
-importance: 4
+importance: 5
 category: data science
 ---
 
