@@ -3,7 +3,7 @@ layout: page
 title: 2025 RAISE Informatics, Data Science & AI Competition
 description: 2nd Place - Undergraduate Division
 img: assets/img/Our-future-with-AI-5.jpg
-importance: 1
+importance: 2
 category: data science
 ---
 
