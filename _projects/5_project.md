@@ -13,5 +13,5 @@ We developed a predictive pipeline to estimate genome-wide expression profiles f
 
 We achieved an RMSD score of 0.14234, placing first overall among all competing teams.
 
-[Github](https://chattergpt/Hackathon-Summer-2024/tree/main)  |
-[Presentation](https://chattergpt.github.io/assets/pdf/BMEHackathon2024.pdf)
+[Github](https://chattergpt/Hackathon-Summer-2025/tree/main)  |
+[Presentation](https://chattergpt.github.io/assets/pdf/Hackathon2025.pdf)
