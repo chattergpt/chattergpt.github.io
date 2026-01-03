@@ -394,9 +394,9 @@ ninja.data = [{
           description: "CSC 240 Final Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-2025-uofr-biomedical-data-science-hackathon",
+          title: '2025 UofR Biomedical Data Science Hackathon',
+          description: "1st Place - Undergraduate Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
