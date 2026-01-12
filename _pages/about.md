@@ -26,14 +26,16 @@ latest_posts:
 
 Hi there! I'm Sree (they/them), a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] in May 2026. 
 
-I'm broadly interested in how machine learning, population genetics, and health data intersect to uncover patterns that shape human health, disease, and inequality. Currently, I work a researcher in the [Dye Lab][dye lab] at [University of Rochester School of Medicine & Dentistry][urmc] building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], using bioinformatics & genomic tools to analyze disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. 
+My research interests lie at the intersection of computational genomics, population health, and biomedical informatics, with a focus on how biological data are generated, interpreted, and deployed in ways that shape human health, disease, and inequality. Broadly, I’m interested in developing and applying machine learning and population-genetic approaches to study health at scale, while critically examining how social structure, bias, and data limitations influence biological inference and downstream health decisions.
+
+Currently, I work a researcher in the [Dye Lab][dye lab] at [University of Rochester School of Medicine & Dentistry][urmc] building LLM-based tools to study systemic oppression and health outcomes, and in the [Liu Lab][liu lab], using bioinformatics & genomic tools to analyze disease-linked variants in transposable elements to uncover noncoding mechanisms in aging and complex disease. Together, these projects have shaped my interest in using genomics as one data modality within broader population health and informatics frameworks.
 
 As I continue my work, I'm drawn to questions like: 
-- How can genomic science inform public policy without reinforcing bias?
-- How do social structures shape the genetic variation we observe, and how do we responsibly interpret that?
-- What role can AI/ML play in making population health research more scalable, accurate, and just?
+- How can genomic and health data be responsibly integrated into population-level research without reinforcing bias?
+- How do social and environmental structures shape the genetic variation we observe, and how should this inform interpretation in public health and clinical contexts?
+- How can AI and machine learning support more scalable, accurate, and equitable population health research?
 
-Ultimately, I hope to work at the interface of computation, biology, and health systems, designing tools, frameworks, or studies that not only generate insight but also support more equitable and informed decision-making.
+Ultimately, I hope to pursue a PhD and a research career at the interface of computation, genomics, and health systems, contributing tools, frameworks, and studies that improve our understanding of population health while supporting more just and informed decision-making.
 
 I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
 
