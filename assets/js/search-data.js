@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-",
+        },{id: "post-my-neurodiverse-superpower",
         
-          title: "",
+          title: "My Neurodiverse Superpower",
         
-        description: "",
+        description: "reframing neurodivergence as a strength in science and learning",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2025-03-26-plotly/";
+            window.location.href = "/blog/2026/plotly/";
           
         },
       },{id: "post-bridging-the-gap-between-ai-ml-healthcare-and-social-justice",
@@ -327,17 +327,6 @@ ninja.data = [{
             window.location.href = "/blog/2020/twitter/";
           
         },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
       },{id: "post-a-post-with-math",
         
           title: "a post with math",
@@ -347,17 +336,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "books-the-godfather",
