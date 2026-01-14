@@ -151,17 +151,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/geojson-map/";
           
         },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
