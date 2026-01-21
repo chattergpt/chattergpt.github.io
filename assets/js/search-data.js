@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-my-neurodiverse-superpower",
+        },{id: "post-the-unheard-voices-in-stem",
+        
+          title: "The Unheard Voices in STEM",
+        
+        description: "what a biology class taught me about power, knowledge, and responsibility",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/unheard-voices/";
+          
+        },
+      },{id: "post-my-neurodiverse-superpower",
         
           title: "My Neurodiverse Superpower",
         
