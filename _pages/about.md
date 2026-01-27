@@ -37,7 +37,7 @@ As I continue my work, I'm drawn to questions like:
 
 Ultimately, I hope to pursue a PhD and a research career at the interface of computation, genomics, and health systems, contributing tools, frameworks, and studies that improve our understanding of population health while supporting more just and informed decision-making.
 
-I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
+Outside of the lab, I enjoy watching movies, doing community service, and taking photos of pretty sunsets! I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
 
 [ur]: https://www.rochester.edu/
 [comp bio]: https://www.sas.rochester.edu/bio/undergraduate/bcb.html
