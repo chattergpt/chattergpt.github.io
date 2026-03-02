@@ -77,7 +77,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-first-author-paper-on-llm-driven-measurement-of-global-identity-based-oppression-has-been-accepted-to-the-ieee-big-data-2025-special-session-on-intelligent-data-mining",
           title: 'My first-author paper on LLM-driven measurement of global identity-based oppression has been accepted...',
           description: "",
-          section: "News",},{id: "news-i-attended-the-7th-national-big-data-health-science-conference-in-columbia-sc-where-i-presented-a-poster-presentation-on-my-research-at-the-dye-lab",
+          section: "News",},{id: "news-i-attended-the-7th-national-big-data-health-science-conference-in-columbia-sc-where-i-presented-a-poster-on-my-research-at-the-dye-lab",
           title: 'I attended the 7th National Big Data Health Science Conference in Columbia, SC,...',
           description: "",
           section: "News",},{id: "projects-2024-uofr-biomedical-data-science-hackathon",
