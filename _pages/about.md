@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm Sree (they/them), a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] in May 2026. 
+Hi there! I'm Sree, a senior at the [University of Rochester][ur] completing my BS in [Computational Biology][comp bio] and BA in [Data Science][data sci] in May 2026. 
 
 My research interests lie at the intersection of computational genomics, population health, and biomedical informatics, with a focus on how biological data are generated, interpreted, and deployed in ways that shape human health, disease, and inequality. I'm interested in developing and applying machine learning and AI approaches to study health and disease mechanisms at scale, while critically examining how social structure, environmental factors, and data limitations influence both the biological patterns we observe and how those insights are translated into real-world health applications.
 
