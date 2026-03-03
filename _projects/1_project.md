@@ -13,5 +13,5 @@ We analyzed data from 2,999 CD14+ monocyte cells, comprising 36,601 genes and 10
 
 We achieved an MCC score of 0.9868, placing third overall and first amongst all undergraduate teams.
 
-[Github](https://chattergpt/Hackathon-Summer-2024/tree/main)  |
+[Github](https://github.com/chattergpt/Hackathon-Summer-2024)  |
 [Presentation](https://chattergpt.github.io/assets/pdf/BMEHackathon2024.pdf)
