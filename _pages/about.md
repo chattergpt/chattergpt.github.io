@@ -32,7 +32,7 @@ Currently, I'm part of the [Dye Lab][dye lab] at URMC, applying **Large Language
 
 I'm broadly interested in developing ML and AI approaches that are not only powerful and scalable, but also **interpretable, equitable, and deployable** across diverse populations, and in understanding how social and environmental structures shape the biological patterns we observe.
 
-Outside the lab, I enjoy watching movies, volunteering, and photographing pretty sunsets! I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
+Outside research, I enjoy watching movies, volunteering, and photographing pretty sunsets! I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
 
 [ur]: https://www.rochester.edu/
 [comp bio]: https://www.sas.rochester.edu/bio/undergraduate/bcb.html
