@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a recent graduate of the [University of Rochester][ur], where I earned my B.S. in [Computational Biology][comp bio] with Honors in Research and my B.A. in [Data Science][data sci]. I will be joining the [National Library of Medicine (NLM)][nlm] as a Postbaccalaureate IRTA Research Fellow in August 2026. My honors thesis under Prof. [Hongbo Liu][liu lab] focused on how disease-associated genetic variants intersect with transposable elements and regulatory DNA in brain aging, where I used bioinformatics, functional genomics, and population genetic approaches to study how noncoding variation may influence human disease. I also worked with Prof. [Timothy Dye][dye lab] on global health research using large language models to study social determinants of health and structural inequality across diverse populations, which deepened my interest in applying AI responsibly to complex public health challenges.
+Hello! I'm a recent graduate of the [University of Rochester][ur], where I earned my B.S. in [Computational Biology][comp bio] with Honors in Research and my B.A. in [Data Science][data sci]. I will be joining the [National Library of Medicine (NLM)][nlm] as a Postbaccalaureate IRTA Research Fellow in August 2026. 
+
+My honors thesis under Prof. [Hongbo Liu][liu lab] focused on how disease-associated genetic variants intersect with transposable elements and regulatory DNA in brain aging, where I used bioinformatics, functional genomics, and population genetic approaches to study how noncoding variation may influence human disease. I also worked with Prof. [Timothy Dye][dye lab] on global health research using large language models to study social determinants of health and structural inequality across diverse populations, which deepened my interest in applying AI responsibly to complex public health challenges.
 
 My research & academic interests focus on three interconnected questions: 
 1. How does genetic and epigenetic variation interact with social and environmental exposures to modify disease risk?
