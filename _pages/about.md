@@ -26,12 +26,9 @@ latest_posts:
 
 Hello! I'm a recent graduate of the [University of Rochester][ur], where I earned my B.S. in [Computational Biology][comp bio] with Honors in Research and my B.A. in [Data Science][data sci]. I will be joining the [National Library of Medicine (NLM)][nlm] as a Postbaccalaureate IRTA Research Fellow in August 2026. 
 
-My honors thesis under Prof. [Hongbo Liu][liu lab] focused on how disease-associated genetic variants intersect with transposable elements and regulatory DNA in brain aging, where I used bioinformatics, functional genomics, and population genetic approaches to study how noncoding variation may influence human disease. I also worked with Prof. [Timothy Dye][dye lab] on global health research using large language models to study social determinants of health and structural inequality across diverse populations, which deepened my interest in applying AI responsibly to complex public health challenges.
+During my undergraduate years, I had the opportunity to work on a variety of unique research projects. My honors thesis under Prof. [Hongbo Liu][liu lab] focused on how noncoding genetic variants within transposable elements influence regulatory DNA in brain aging using bioinformatics, functional genomics, and population genetic approaches. I also worked with Prof. [Timothy Dye][dye lab] on global health research using large language models to study social determinants of health and structural inequality across diverse populations, which deepened my interest in applying AI responsibly to complex public health challenges.
 
-My research & academic interests focus on three interconnected questions: 
-1. How does genetic and epigenetic variation interact with social and environmental exposures to modify disease risk?
-2. How can we design interpretable machine learning & AI methods that integrate multi-omic and population health data without encoding social biases?
-3. How can LLMs be reliably deployed to extract structural determinants of health from free-text data across diverse global populations?
+Broadly, I am interested in developing interpretable machine learning and AI methods that integrate multi-omic and population health data to understand how genetic, social and environmental exposures jointly shape disease risk and health disparities.
 
 Outside of research, I enjoy watching movies, volunteering, and photographing pretty sunsets! I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
 
