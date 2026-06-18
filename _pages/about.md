@@ -24,13 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a recent graduate of the [University of Rochester][ur], where I earned my B.S. in [Computational Biology][comp bio] with Honors in Research and my B.A. in [Data Science][data sci]. I will be joining the [National Library of Medicine (NLM)][nlm] as a Postbaccalaureate IRTA Research Fellow in August 2026. 
+Hello! I am Sree, a recent graduate of the [University of Rochester][ur], where I earned a B.S. in [Computational Biology][comp bio] with Honors in Research and my B.A. in [Data Science][data sci]. 
 
-During my undergraduate education, I had the opportunity to work on a variety of unique research projects. My honors thesis under Prof. [Hongbo Liu][liu lab] focused on how noncoding genetic variants within transposable elements influence regulatory DNA in brain aging using bioinformatics, functional genomics, and population genetic approaches. I also worked with Prof. [Timothy Dye][dye lab] on global health research using large language models to study social determinants of health and structural inequality across diverse populations, which deepened my interest in applying AI responsibly to complex public health challenges.
+My research interests lie in computational genomics, statistical genetics, biomedical informatics, and machine learning for health data. I am especially interested in developing multimodal methods that integrate genomic, epigenomic, and environmental information to understand how regulatory context shapes complex genetic traits and disease risk.
 
-Broadly, I am interested in developing interpretable machine learning and AI methods that integrate multi-omic and population health data to understand how genetic, social and environmental exposures jointly shape disease risk and health disparities.
+In August 2026, I will be joining the [National Library of Medicine (NLM)][nlm] as a Postbaccalaureate Research Fellow, working in the Scheuermann Lab on biomedical knowledge bases, single-cell genomics, and ontology-driven data mining. Afterwards, I hope to pursue PhD training focused on computational biology, biomedical data science, and statistical genetics.
 
-Outside of research, I enjoy watching movies, volunteering, and photographing pretty sunsets! I’m continually grateful for the mentors, collaborators, and communities, both in and outside of STEM, who’ve supported my growth and made it possible for me to study and build in spaces I care deeply about.
+During my undergraduate education, I worked under Dr. [Hongbo Liu][liu lab], where I developed an integrative genomics framework characterizing the regulatory landscape of brain-aging GWAS variants within transposable elements using snATAC-seq, S-LDSC, and ENCODE annotations, becoming the basis of my undergraduate honors thesis. I also worked with Dr. [Timothy Dye][dye lab], where I developed a rule-guided LLM framework leveraging instruction-tuned model benchmarking to classify social disadvantage from free-text identity data across 170+ countries. Some of my earlier research experiences include summer internships at the National Institute of Neurological Disorders and Stroke (NINDS), where I developed closed-loop computational pipelines for behavioral neuroscience with DeepLabCut and optogenetics, and at the National Cancer Institute (NCI), where I investigated combination immunotherapy strategies for HPV-related malignancies.
+
+I also served as Co-President of oSTEM, Co-Chapter Leader of the Neurodiversity Alliance, and Co-Vice President of Service for Alpha Phi Omega, where I organized 20+ professional events for LGBTQ+ students in STEM, mentoring students with learning disabilities, completed 170+ hours of community service, and received the 2025 Neurodiversity Alliance National Scholarship for my advocacy work supporting LGBTQ+ and neurodivergent students in STEM.
+
+In my free time, I enjoy watching movies & logging them on Letterboxd, exploring large cities, hanging out with friends, cosplay/makeup, and photographing sunsets!
 
 [ur]: https://www.rochester.edu/
 [comp bio]: https://www.sas.rochester.edu/bio/undergraduate/bcb.html
