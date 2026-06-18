@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Sree, a recent graduate of the [University of Rochester][ur], where I earned a B.S. in [Computational Biology][comp bio] with Honors in Research and my B.A. in [Data Science][data sci]. 
+Hello! I am Sree, a recent graduate of the [University of Rochester][ur], where I earned a B.S. in [Computational Biology][comp bio] with Honors in Research and a B.A. in [Data Science][data sci]. 
 
 My research interests lie in computational genomics, statistical genetics, biomedical informatics, and machine learning for health data. I am especially interested in developing multimodal methods that integrate genomic, epigenomic, and environmental information to understand how regulatory context shapes complex genetic traits and disease risk.
 
