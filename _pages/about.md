@@ -26,7 +26,7 @@ latest_posts:
 
 Hello! I am Sree, a recent graduate of the [University of Rochester][ur], where I earned a B.S. in [Computational Biology][comp bio] with Honors in Research and a B.A. in [Data Science][data sci]. 
 
-My research interests lie in computational genomics, statistical genetics, biomedical informatics, and machine learning for health data. I am especially interested in developing multimodal methods that integrate genomic, epigenomic, and environmental information to understand how regulatory context shapes complex genetic traits and disease risk.
+My research interests lie in computational genomics, statistical genetics, biomedical informatics, and machine learning for health data. I am particularly interested in integrating genomic, epigenomic, environmental, and population-level data to understand how genetic, regulatory, and social factors jointly contribute to human diseases, aging, and health disparities.
 
 In August 2026, I will be joining the [National Library of Medicine (NLM)][nlm] as a Postbaccalaureate Research Fellow, working in the Scheuermann Lab on biomedical knowledge bases, single-cell genomics, and ontology-driven data mining. Afterwards, I hope to pursue PhD training focused on computational biology, biomedical data science, and statistical genetics.
 
