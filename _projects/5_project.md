@@ -4,7 +4,7 @@ title: 2025 UofR Biomedical Data Science Hackathon
 description: 1st Place - Undergraduate Division
 img: assets/img/perturb.jpeg
 importance: 1
-category: data science
+category: featured
 ---
 
 As part of the 2025 Biomedical Data Science Hackathon, I led a team of 4 as team captain to model gene expression responses to double perturbations using machine learning.
