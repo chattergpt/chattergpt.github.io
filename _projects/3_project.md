@@ -4,7 +4,7 @@ title: 2025 RIT ASA Datafest
 description: 1st Place - Best Visualization
 img: assets/img/datafest.jpg
 importance: 3
-category: data science
+category: featured
 ---
 
 As part of team Chi-Squad in the American Statistical Association's Datafest hosted by Rochester Institute of Technology (RIT), we analyzed comprehensive datasets from Savills’ commercial real estate firm to derive key insights and identify actionable insights for their advisory services. 
