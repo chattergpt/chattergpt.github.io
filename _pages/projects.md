@@ -5,7 +5,7 @@ permalink: /projects/
 description: These are a few cool projects I've worked on, from hackathons to course assignments!
 nav: true
 nav_order: 3
-display_categories: [data science]
+display_categories: [featured]
 horizontal: false
 ---
 
