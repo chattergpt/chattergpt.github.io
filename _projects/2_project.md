@@ -4,7 +4,7 @@ title: 2025 RAISE Informatics, Data Science & AI Competition
 description: 2nd Place - Undergraduate Division
 img: assets/img/Our-future-with-AI-5.jpg
 importance: 2
-category: data science
+category: featured
 ---
 
 As part of the 2025 RAISE AI & Informatics Competition hosted by Rutgers University's Edward J. Bloustein School of Planning and Public Policy, we analyzed 14,013 news headlines to uncover key themes on the promises & challenges of AI across sectors such as education, careers & societal change.
