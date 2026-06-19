@@ -4,7 +4,7 @@ title: 2024 UofR Biomedical Data Science Hackathon
 description: 1st Place - Undergraduate Division
 img: assets/img/singlecell.png
 importance: 4
-category: data science
+category: featured
 ---
 
 As part of the 2024 Biomedical Data Science Hackathon, I led a team of 4 as team captain to identify associations between chromatin accessibility and gene expression data from immune cells. 
