@@ -4,7 +4,7 @@ title: Impact of COVID-19 on Graduate Salaries
 description: CSC 240 Final Project
 img: assets/img/COVIDEconGrowth.png
 importance: 5
-category: data science
+category: featured
 ---
 
 As part of our final project for CSC 240: Data Mining, we analyzed data from the U.S. Department of Education to explore how COVID-19 impacted graduate salaries. 
