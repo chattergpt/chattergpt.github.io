@@ -3,7 +3,7 @@ layout: page
 title: Comparative Retinal Transcriptomics Across Model Organisms toInform Human Retinitis Pigmentosa Research
 description: BIOL 257L Final Project
 img: assets/img/RP.png
-importance: 5
+importance: 1
 category: featured
 ---
 
