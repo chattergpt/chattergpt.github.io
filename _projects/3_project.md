@@ -3,7 +3,7 @@ layout: page
 title: 2025 RIT ASA Datafest
 description: 1st Place - Best Visualization
 img: assets/img/datafest.jpg
-importance: 4
+importance: 5
 category: featured
 ---
 
