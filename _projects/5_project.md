@@ -3,7 +3,7 @@ layout: page
 title: 2025 UofR Biomedical Data Science Hackathon
 description: 1st Place - Undergraduate Division
 img: assets/img/perturb.jpeg
-importance: 2
+importance: 3
 category: featured
 ---
 
