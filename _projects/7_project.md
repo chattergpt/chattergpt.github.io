@@ -1,81 +1,18 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Lightweight Heat Stress Detection for Cow Health Monitoring
+description: DSCC 383W Capstone Project
+img: assets/img/zalliant.jpeg
 importance: 1
-category: work
-related_publications: true
+category: featured
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As part of our data science capstone project in collaboration with Zalliant, we developed and evaluated lightweight methods for detecting heat stress events in cattle using continuous rumen temperature data collected from IoT bolus sensors. The goal was to determine whether modern machine learning approaches could improve upon Zalliant's existing statistical monitoring system while remaining computationally efficient enough for real-world deployment.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We compared several supervised and deep learning models, including Logistic Regression, XGBoost, and LSTM networks, against robust statistical approaches for anomaly detection. After extensive evaluation, we designed a context-aware statistical pipeline that combines rolling median baseline estimation, median absolute deviation (MAD)-based anomaly scoring, adaptive animal-specific thresholds, and persistence filtering to identify sustained temperature elevations indicative of heat stress.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Our proposed method achieved 80% accuracy, 86.7% recall, and 81.3% F1 score, while detecting heat stress events a median of 9 hours earlier than Zalliant's current alert system. Unlike more computationally expensive machine learning models, our approach maintained strong performance with significantly lower operational costs, enabling reduced sensor sampling rates, longer device battery life, and the potential for substantial savings for both farmers and the company. These results demonstrate that thoughtfully designed statistical methods can outperform complex AI models for resource-constrained, real-time monitoring applications.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+[Presentation](https://chattergpt.github.io/assets/pdf/Capstone_Final.pdf)    |
+[Poster](https://chattergpt.github.io/assets/pdf/Hajim_Design_Day_Poster.pdf)    |
+[Paper](https://chattergpt.github.io/assets/pdf/ZalliantAI_Final_Report.pdf)
