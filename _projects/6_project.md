@@ -1,80 +1,16 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Comparative Retinal Transcriptomics Across Model Organisms toInform Human Retinitis Pigmentosa Research
+description: BIOL 257L Final Project
+img: assets/img/RP.png
+importance: 5
+category: featured
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As part of our final project for BIOL 257L: Applied Genomics, we investigated how well different model organisms recapitulate the molecular mechanisms underlying Retinitis Pigmentosa (RP), a hereditary retinal disease that causes progressive vision loss. By integrating human GWAS data with retinal RNA-sequencing datasets from mouse, canine, zebrafish, and fruit fly, we evaluated each species' translational relevance for RP research.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We performed RNA-seq differential expression analysis using Salmon and DESeq2, mapped human RP-associated GWAS genes to species-specific orthologs using biomaRt, and conducted Gene Ontology enrichment analysis with clusterProfiler to identify conserved biological pathways. We then compared differential expression patterns, GWAS overlap, and enriched pathways across species to assess their strengths and limitations as disease models.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Our analysis revealed that canine models exhibited the strongest transcriptional response to RP, with the largest number of differentially expressed genes and the most significant pathway enrichment, including immune-related processes such as antigen processing. Although overlap with known human RP GWAS genes was limited across all species, dogs demonstrated the greatest correspondence, suggesting they may provide the most biologically relevant model for studying RP pathogenesis and informing future therapeutic development.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+[Presentation](https://chattergpt.github.io/assets/pdf/RP_Poster.pdf)
