@@ -109,9 +109,9 @@ ninja.data = [{
           description: "BIOL 257L Final Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-lightweight-heat-stress-detection-for-cow-health-monitoring",
+          title: 'Lightweight Heat Stress Detection for Cow Health Monitoring',
+          description: "DSCC 383W Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
