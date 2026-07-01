@@ -104,8 +104,8 @@ ninja.data = [{
           description: "1st Place - Undergraduate Division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-comparative-retinal-transcriptomics-across-model-organisms-toinform-human-retinitis-pigmentosa-research",
-          title: 'Comparative Retinal Transcriptomics Across Model Organisms toInform Human Retinitis Pigmentosa Research',
+            },},{id: "projects-comparative-retinal-transcriptomics-across-model-organisms-to-inform-human-retinitis-pigmentosa-research",
+          title: 'Comparative Retinal Transcriptomics Across Model Organisms to Inform Human Retinitis Pigmentosa Research',
           description: "BIOL 257L Final Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
