@@ -13,4 +13,4 @@ We performed RNA-seq differential expression analysis using Salmon and DESeq2, m
 
 Our analysis revealed that canine models exhibited the strongest transcriptional response to RP, with the largest number of differentially expressed genes and the most significant pathway enrichment, including immune-related processes such as antigen processing. Although overlap with known human RP GWAS genes was limited across all species, dogs demonstrated the greatest correspondence, suggesting they may provide the most biologically relevant model for studying RP pathogenesis and informing future therapeutic development.
 
-[Presentation](https://chattergpt.github.io/assets/pdf/RP_Poster.pdf)
+[Poster](https://chattergpt.github.io/assets/pdf/RP_Poster.pdf)
